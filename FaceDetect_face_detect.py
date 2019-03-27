@@ -32,22 +32,22 @@
     <meta property="og:image" content="https://avatars2.githubusercontent.com/u/5814439?s=400&amp;v=4"><meta property="og:site_name" content="GitHub"><meta property="og:type" content="object"><meta property="og:title" content="shantnu/FaceDetect"><meta property="og:url" content="https://github.com/shantnu/FaceDetect"><meta property="og:description" content="Contribute to shantnu/FaceDetect development by creating an account on GitHub.">
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzY4MDAxODgyOjZjYzAyMGUzOGIxYmY1NDAwZmVkMzhlMDdlZTIyNmIzYmM2MmM1MzZjODI0ODlmYmIyZTEwNmIxZjE3YzQ2ODc=--33ce3a0c15d16cc145c4deb3423c5188df3904f1">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzY4MDAxODgyOmY3MTQ0NmUxNDQ1N2U3NzU4MjM1NmIwODRlZTQ5ZTQwYmUxNWU2YTk3Y2M0ZWZmMTQxNjMxYzNkN2JjYmYzNGY=--4a2e36d8fd03fc8f6981ce9082fb1cb60d8d7ed9">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="https://github.com/sessions/sudo_modal">
-  <meta name="request-id" content="B7CF:095F:1A777D:2F2DEC:5C9AF5EC" data-pjax-transient="">
+  
 
 
   
 
-  <meta name="selected-link" value="repo_source" data-pjax-transient="">
+  
 
       <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com"><meta name="octolytics-app-id" content="github"><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event"><meta name="octolytics-dimension-request_id" content="B7CF:095F:1A777D:2F2DEC:5C9AF5EC"><meta name="octolytics-dimension-region_edge" content="iad"><meta name="octolytics-dimension-region_render" content="iad"><meta name="octolytics-actor-id" content="20263077"><meta name="octolytics-actor-login" content="kareemassad"><meta name="octolytics-actor-hash" content="a23d93443ee03504ec413ea9f274703f78f410c33551126d0c7a56a10d1863c1">
-<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true">
+  <meta name="octolytics-host" content="collector.githubapp.com"><meta name="octolytics-app-id" content="github"><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event"><meta name="octolytics-dimension-request_id" content="F9C9:7E2C:246D09:3DFB18:5C9AF7C2"><meta name="octolytics-dimension-region_edge" content="iad"><meta name="octolytics-dimension-region_render" content="iad"><meta name="octolytics-actor-id" content="20263077"><meta name="octolytics-actor-login" content="kareemassad"><meta name="octolytics-actor-hash" content="a23d93443ee03504ec413ea9f274703f78f410c33551126d0c7a56a10d1863c1">
+
 
 
 
@@ -65,7 +65,7 @@
     <meta name="user-login" content="kareemassad">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MWM0ZTdlZTAwYTE1ODEyYWYxMWYwOWY4ODlmODgzNWZjYjc5OTdiN2JiODQyMWRhNmM2ZDEzMWQzMjQ1ZTM1M3x7InJlbW90ZV9hZGRyZXNzIjoiMTM0LjExNy4yNDkuODEiLCJyZXF1ZXN0X2lkIjoiQjdDRjowOTVGOjFBNzc3RDoyRjJERUM6NUM5QUY1RUMiLCJ0aW1lc3RhbXAiOjE1NTM2NTkzODAsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="NTc2YzNjM2VlYmZjMWQ4NTllODA3NDljZTIwYWJiOGI5YTlmNjI5M2VkMzQzNDQ3ODI3Y2Q1YWRlMWM2ZWRlN3x7InJlbW90ZV9hZGRyZXNzIjoiMTM0LjExNy4yNDkuODEiLCJyZXF1ZXN0X2lkIjoiRjlDOTo3RTJDOjI0NkQwOTozREZCMTg6NUM5QUY3QzIiLCJ0aW1lc3RhbXAiOjE1NTM2NTk4NDIsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_SOCIAL_PROOF,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_UNVERIFIED_LISTINGS,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES">
 
@@ -81,7 +81,7 @@
   <meta name="octolytics-dimension-user_id" content="5814439"><meta name="octolytics-dimension-user_login" content="shantnu"><meta name="octolytics-dimension-repository_id" content="20841207"><meta name="octolytics-dimension-repository_nwo" content="shantnu/FaceDetect"><meta name="octolytics-dimension-repository_public" content="true"><meta name="octolytics-dimension-repository_is_fork" content="false"><meta name="octolytics-dimension-repository_network_root_id" content="20841207"><meta name="octolytics-dimension-repository_network_root_nwo" content="shantnu/FaceDetect"><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false">
 
 
-    <link rel="canonical" href="https://github.com/shantnu/FaceDetect/blob/master/face_detect.py" data-pjax-transient="">
+    
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -99,14 +99,14 @@
 
   <link rel="manifest" href="https://github.com/manifest.json" crossorigin="use-credentials">
 
-  </head>
+  <meta name="selected-link" value="repo_source" data-pjax-transient=""><meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient=""><meta name="request-id" content="F9C9:7E2C:246E6A:3DFB92:5C9AF7C3" data-pjax-transient=""><link rel="canonical" href="https://github.com/shantnu/FaceDetect/blob/master/face_detect.py" data-pjax-transient=""><link href="https://github.com/shantnu/FaceDetect/commits/master.atom" rel="alternate" title="Recent Commits to FaceDetect:master" type="application/atom+xml" data-pjax-transient=""></head>
 
-  <body class="logged-in env-production page-blob" data-gr-c-s-loaded="true">
+  <body class="logged-in env-production intent-mouse" data-gr-c-s-loaded="true">
     
 
   <div class="position-relative js-header-wrapper ">
     <a href="https://github.com/shantnu/FaceDetect/blob/master/face_detect.py#start-of-content" tabindex="1" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
-    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress" style="transition: width 0.4s ease 0s; width: 100%;"></div></div>
 
     
     
@@ -133,7 +133,7 @@
   <div class="position-relative">
     <!-- '"` --><!-- </textarea></xmp> --><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="20841207" data-scoped-search-url="/shantnu/FaceDetect/search" data-unscoped-search-url="/search" action="https://github.com/shantnu/FaceDetect/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
       <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
-        <input type="text" class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable" data-hotkey="s,/" name="q" value="" placeholder="Search or jump to…" data-unscoped-placeholder="Search or jump to…" data-scoped-placeholder="Search or jump to…" autocapitalize="off" aria-autocomplete="list" aria-controls="jump-to-results" aria-label="Search or jump to…" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=cPQpfijqXEf2jJE5HYXF3b/OnZEUZhbG9FeZ46DufQb1ArG6FADoZUadhgNcHQz/xuZh7or1DBEm6xVk6GvMaw==" spellcheck="false" autocomplete="off">
+        <input type="text" class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable" data-hotkey="s,/" name="q" value="" placeholder="Search or jump to…" data-unscoped-placeholder="Search or jump to…" data-scoped-placeholder="Search or jump to…" autocapitalize="off" aria-autocomplete="list" aria-controls="jump-to-results" aria-label="Search or jump to…" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=GAcLfQ1QSqlK0Wc+3sG52pdsCPfr/HUjbEqgbmAmMSSd8ZO5Mbr+i/rAcASfWXD47kT0iHVvb/S+9izpKKOASQ==" spellcheck="false" autocomplete="off">
           <input type="hidden" class="js-site-search-type-field" name="type">
             <img src="./FaceDetect_face_detect_files/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -344,7 +344,7 @@
             
 <div class="js-user-status-container user-status-compact" data-team-hovercards-enabled="">
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:5814439,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:20263077,&quot;client_id&quot;:&quot;829075131.1537188437&quot;,&quot;originating_request_id&quot;:&quot;B7CF:095F:1A777D:2F2DEC:5C9AF5EC&quot;,&quot;originating_url&quot;:&quot;https://github.com/shantnu/FaceDetect/blob/master/face_detect.py&quot;,&quot;referrer&quot;:&quot;https://github.com/shantnu/FaceDetect/&quot;}}" data-hydro-click-hmac="21ab530119dc5d09d48003cf07d16fb4502c16c241831d3658051c80f78d04e4">
+    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:5814439,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:20263077,&quot;client_id&quot;:&quot;829075131.1537188437&quot;,&quot;originating_request_id&quot;:&quot;F9C9:7E2C:246D09:3DFB18:5C9AF7C2&quot;,&quot;originating_url&quot;:&quot;https://github.com/shantnu/FaceDetect&quot;,&quot;referrer&quot;:&quot;https://realpython.com/face-recognition-with-python/&quot;}}" data-hydro-click-hmac="ecb16bcb03d466207ec0aece045d7e6dc3a8168b4f41c60d250e69c01aa56521">
       <div class="f6 d-inline-block v-align-middle  user-status-emoji-only-header pl-0 circle lh-condensed user-status-header " style="max-width: 29px">
         <div class="user-status-emoji-container flex-shrink-0 mr-1">
           <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 0 1-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 0 1-1.45-2.17A6.59 6.59 0 0 1 1.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 0 1 8 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"></path></svg>
@@ -354,7 +354,7 @@
           <span class="link-gray">Set your status</span>
       </div>
 </summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --><form class="position-relative flex-auto js-user-status-form" action="https://github.com/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="_method" value="put"><input type="hidden" name="authenticity_token" value="EEr+PRnJ6VKp5cUVStaW/PUt4QwS4dY9lo0mdm6TanJ4/281T9pmrP7tqy/epXaBbFknrQhTxdGDoYy7hOXS4A==">
+      <!-- '"` --><!-- </textarea></xmp> --><form class="position-relative flex-auto js-user-status-form" action="https://github.com/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="_method" value="put"><input type="hidden" name="authenticity_token" value="UdrGpXXzirG30ksuQ4ynQXfvoXZLsX2Z/+t/8gW7koY5b1etI+AFT+DaJRTX/0c87ptn11EDbnXqx9U/780qFA==">
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog="">
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
@@ -470,7 +470,7 @@
           <div role="none" class="dropdown-divider"></div>
           <a role="menuitem" class="dropdown-item" href="https://help.github.com/" data-ga-click="Header, go to help, text:help">Help</a>
           <a role="menuitem" class="dropdown-item" href="https://github.com/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-          <!-- '"` --><!-- </textarea></xmp> --><form class="logout-form" action="https://github.com/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="I2EMZOeJeBUqp+TgYSgP/cq19oVpFwU14nfZBcHzPv3H21rRCCye+qUPiFhpnt2ATjuwR/+25Dqfq2B64INT2A==">
+          <!-- '"` --><!-- </textarea></xmp> --><form class="logout-form" action="https://github.com/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="HGe+PlQcQDyZxu/0cH8glpOl6HY2Ww/V4a/JpIhn9Lv43eiLu7mm0xZug0x4yfLrFyuutKD67tqcc3DbqReZng==">
             
             <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
               Sign out
@@ -482,7 +482,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --><form class="sr-only right-0" action="https://github.com/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="5kgqoR6gwtwzRr96lpvYsSRY113L18ll8IE2XcQYhUMC8nwU8QUkM7zu08KeLQrMoNaRn112KGqNXY8i5WjoZg==">
+        <!-- '"` --><!-- </textarea></xmp> --><form class="sr-only right-0" action="https://github.com/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="du61udKBDIXKRAA/ZYusQrOy62Gzm2UVi1lGX3TjOd+SVOMMPSTqakXsbIdtPX4/NzytoyU6hBr2hf8gVZNU+g==">
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -506,7 +506,6 @@
   <div class="application-main " data-commit-hovercards-enabled="">
         <div itemscope="" itemtype="http://schema.org/SoftwareSourceCode" class="">
     <main id="js-repo-pjax-container" data-pjax-container="">
-      
 
 
   
@@ -524,10 +523,10 @@
 
 
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --><form data-remote="true" class="js-social-form js-social-container" action="https://github.com/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="w9JlEL3geOM8a7YjCcwkiW9JmhW2lnueYjH8yTNT736ZIFGRaNQ+hu1dfs0b2vxeEz2C3ogyFszqgllmSWYm3w==">      <input type="hidden" name="repository_id" id="repository_id" value="20841207" class="form-control">
+        <!-- '"` --><!-- </textarea></xmp> --><form data-remote="true" class="js-social-form js-social-container" action="https://github.com/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="bUomhuot2UWGZ8SLOcJ1J+iFXsmHnmjjDMEy7CwP1+E3uBIHPxmfIFdRDGUr1K3wlPFGArk6BbGEcpdDVjoeQA==">      <input type="hidden" name="repository_id" id="repository_id" value="20841207" class="form-control">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="btn btn-sm btn-with-count select-menu-button" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:20841207,&quot;client_id&quot;:&quot;829075131.1537188437&quot;,&quot;originating_request_id&quot;:&quot;B7CF:095F:1A777D:2F2DEC:5C9AF5EC&quot;,&quot;originating_url&quot;:&quot;https://github.com/shantnu/FaceDetect/blob/master/face_detect.py&quot;,&quot;referrer&quot;:&quot;https://github.com/shantnu/FaceDetect/&quot;,&quot;user_id&quot;:20263077}}" data-hydro-click-hmac="f08a000d1d5328a5c7cd1cfd511641700b0599cd26ec4513eb22eec2b1a3fb8d" data-ga-click="Repository, click Watch settings, action:blob#show" aria-haspopup="menu">          <span data-menu-button="">
+        <summary class="btn btn-sm btn-with-count select-menu-button" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:20841207,&quot;client_id&quot;:&quot;829075131.1537188437&quot;,&quot;originating_request_id&quot;:&quot;F9C9:7E2C:246E6A:3DFB92:5C9AF7C3&quot;,&quot;originating_url&quot;:&quot;https://github.com/shantnu/FaceDetect/blob/master/face_detect.py?_pjax=%23js-repo-pjax-container&quot;,&quot;referrer&quot;:&quot;https://github.com/shantnu/FaceDetect/&quot;,&quot;user_id&quot;:20263077}}" data-hydro-click-hmac="4e890aa19032d31eaeb5705173f0360fbf017fd549974ac531344d86d8e2017e" data-ga-click="Repository, click Watch settings, action:blob#show" aria-haspopup="menu">          <span data-menu-button="">
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
               Watch
           </span>
@@ -594,17 +593,17 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --><form class="starred js-social-form" action="https://github.com/shantnu/FaceDetect/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="QwglA5avxUJaaYg8adKqB6d+VNqd3U3D461OWgy3R+Ua7MhHoeLyPVMEks9IP6dTIqz47VaZE3GbS8f8jTvqmQ==">
+    <!-- '"` --><!-- </textarea></xmp> --><form class="starred js-social-form" action="https://github.com/shantnu/FaceDetect/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="reLuCkwdq6UQxaDO0aKpZuH72hncmJzlp3q1Fk90eC/0BgNOe1Cc2hmouj3wT6QyZCl2LhfcwlffnDywzvjVUw==">
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar shantnu/FaceDetect" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:20841207,&quot;client_id&quot;:&quot;829075131.1537188437&quot;,&quot;originating_request_id&quot;:&quot;B7CF:095F:1A777D:2F2DEC:5C9AF5EC&quot;,&quot;originating_url&quot;:&quot;https://github.com/shantnu/FaceDetect/blob/master/face_detect.py&quot;,&quot;referrer&quot;:&quot;https://github.com/shantnu/FaceDetect/&quot;,&quot;user_id&quot;:20263077}}" data-hydro-click-hmac="89958a5e31ddd951cb1d40eef184c50cbd18d19d169b8c11d55ab628fcc8ea39" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar shantnu/FaceDetect" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:20841207,&quot;client_id&quot;:&quot;829075131.1537188437&quot;,&quot;originating_request_id&quot;:&quot;F9C9:7E2C:246E6A:3DFB92:5C9AF7C3&quot;,&quot;originating_url&quot;:&quot;https://github.com/shantnu/FaceDetect/blob/master/face_detect.py?_pjax=%23js-repo-pjax-container&quot;,&quot;referrer&quot;:&quot;https://github.com/shantnu/FaceDetect/&quot;,&quot;user_id&quot;:20263077}}" data-hydro-click-hmac="06b344e108e8a7f2267c11adf33ebdc3cf4df487d7985e11351d9e1e9aed74e6" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="https://github.com/shantnu/FaceDetect/stargazers" aria-label="592 users starred this repository">
           592
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --><form class="unstarred js-social-form" action="https://github.com/shantnu/FaceDetect/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="CliEDuhqYpIW/SkpzQPbbD6iUUWnDnpNhVAelq68gscLmwf9SUYb51xASOg9YCpSvoK8Iy1G1w/xIFB4Y/e2/w==">
+    <!-- '"` --><!-- </textarea></xmp> --><form class="unstarred js-social-form" action="https://github.com/shantnu/FaceDetect/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="1bcsAfYjFjONtET4zeLmuo2phhyo5XXs5cXMgViccEbUdK/yVw9vRscJJTk9gReEDYlreiKt2K6RtYJvlddEfg==">
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star shantnu/FaceDetect" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:20841207,&quot;client_id&quot;:&quot;829075131.1537188437&quot;,&quot;originating_request_id&quot;:&quot;B7CF:095F:1A777D:2F2DEC:5C9AF5EC&quot;,&quot;originating_url&quot;:&quot;https://github.com/shantnu/FaceDetect/blob/master/face_detect.py&quot;,&quot;referrer&quot;:&quot;https://github.com/shantnu/FaceDetect/&quot;,&quot;user_id&quot;:20263077}}" data-hydro-click-hmac="2d9f76d8b2bd6527654b44d80a76a0685f30320fa9113ce0414ba707b36bb7e5" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star shantnu/FaceDetect" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:20841207,&quot;client_id&quot;:&quot;829075131.1537188437&quot;,&quot;originating_request_id&quot;:&quot;F9C9:7E2C:246E6A:3DFB92:5C9AF7C3&quot;,&quot;originating_url&quot;:&quot;https://github.com/shantnu/FaceDetect/blob/master/face_detect.py?_pjax=%23js-repo-pjax-container&quot;,&quot;referrer&quot;:&quot;https://github.com/shantnu/FaceDetect/&quot;,&quot;user_id&quot;:20263077}}" data-hydro-click-hmac="7175cb2679175d67ffb9146a2c0981ba663f0f9e2c39c038474e3b108c252809" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
         Star
 </button>        <a class="social-count js-social-count" href="https://github.com/shantnu/FaceDetect/stargazers" aria-label="592 users starred this repository">
           592
@@ -614,8 +613,8 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --><form class="btn-with-count" action="https://github.com/shantnu/FaceDetect/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="qkRtevvk0agiGZ652H1faej7GkckTAyzAMP/onP16FuPuFPXDpBkmwG5QQ10ojN4X2I/+VzXgsk34CC9gaqdow==">
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:20841207,&quot;client_id&quot;:&quot;829075131.1537188437&quot;,&quot;originating_request_id&quot;:&quot;B7CF:095F:1A777D:2F2DEC:5C9AF5EC&quot;,&quot;originating_url&quot;:&quot;https://github.com/shantnu/FaceDetect/blob/master/face_detect.py&quot;,&quot;referrer&quot;:&quot;https://github.com/shantnu/FaceDetect/&quot;,&quot;user_id&quot;:20263077}}" data-hydro-click-hmac="994ab5f5cfd9c40a333b4d26b90d2189833ac546f3afc99568cbbb3e7f018a74" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of shantnu/FaceDetect to your account" aria-label="Fork your own copy of shantnu/FaceDetect to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+          <!-- '"` --><!-- </textarea></xmp> --><form class="btn-with-count" action="https://github.com/shantnu/FaceDetect/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="TCbv0UD0f1P5OYbDVRzSAuNEPwhC2Qf6slXUMbSHqopp2tF8tYDKYNqZWXf5w74TVN0atjpCiYCFdgsuRtjfcg==">
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:20841207,&quot;client_id&quot;:&quot;829075131.1537188437&quot;,&quot;originating_request_id&quot;:&quot;F9C9:7E2C:246E6A:3DFB92:5C9AF7C3&quot;,&quot;originating_url&quot;:&quot;https://github.com/shantnu/FaceDetect/blob/master/face_detect.py?_pjax=%23js-repo-pjax-container&quot;,&quot;referrer&quot;:&quot;https://github.com/shantnu/FaceDetect/&quot;,&quot;user_id&quot;:20263077}}" data-hydro-click-hmac="adc2bb9e33d06f9350ef5fe0bf5e9fe5428bf731fd56aef1bea5c422bfc30319" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of shantnu/FaceDetect to your account" aria-label="Fork your own copy of shantnu/FaceDetect to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
               Fork
 </button></form>
     <a href="https://github.com/shantnu/FaceDetect/network/members" class="social-count" aria-label="735 users forked this repository">
@@ -824,12 +823,12 @@
                 <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"></path></svg>
             </a>
 
-            <!-- '"` --><!-- </textarea></xmp> --><form class="inline-form js-update-url-with-hash" action="https://github.com/shantnu/FaceDetect/edit/master/face_detect.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="DLvjnTqXnnozMFJFG4Jw9rQGZJJ4qs8oN595HVziyI9VwSSavZR86txCpZbhedJr2i6L4cnHRskxXAFn2MPSwQ==">
+            <!-- '"` --><!-- </textarea></xmp> --><form class="inline-form js-update-url-with-hash" action="https://github.com/shantnu/FaceDetect/edit/master/face_detect.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="kY6YIvBaruMG0I7nxk+ymdJf3pmMy+tspD4WnfsHwE7I9F8ld1lMc+mieTQ8tBAEvHcx6j2mYo2i/W7nfybaAA==">
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit" aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with="">
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --><form class="inline-form" action="https://github.com/shantnu/FaceDetect/delete/master/face_detect.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="isN71xPtjp4XHtMNZUF2Tb4GD+LVJfBsjpDtW9fPUx2qTyi97yXCcpky2hZSfIMc0OLNp7zYDkosl1soGngEQw==">
+          <!-- '"` --><!-- </textarea></xmp> --><form class="inline-form" action="https://github.com/shantnu/FaceDetect/delete/master/face_detect.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="ALh0T2Ru7md0LlCV73bEWu9+I/RfeafpEfDwhodAEGsgNCclmKaii/oCWY7YSzELgZrhsTaEWc+z90b1SvdHNQ==">
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit" aria-label="Fork this project and delete the file" data-disable-with="">
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
             </button>
@@ -1010,7 +1009,17 @@
   <div class="modal-backdrop js-touch-events"></div>
 </div>
 
-    </main>
+
+
+
+
+
+
+
+
+
+
+</main>
   </div>
   
 
@@ -1020,7 +1029,7 @@
 <div class="footer container-lg width-full px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">© 2019 <span title="0.21101s from unicorn-757fff8c8c-85xkt">GitHub</span>, Inc.</li>
+      <li class="mr-3">© 2019 <span title="0.43544s from unicorn-58bc4fdc48-7t8hm">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
@@ -1072,8 +1081,7 @@
   <template id="site-details-dialog"></template>
 
   <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
-  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
-  </div>
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;"></div>
 </div>
 
   <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
